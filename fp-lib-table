@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name nokia-display-footprints)(type KiCad)(uri /Users/rodolfoacosta/Documents/KiCad_Projects/KiCad_Libraries/nokia-display-kicad-libs-master/nokia-display-footprints)(options "")(descr ""))
+  (lib (name LCD_Connectors)(type KiCad)(uri /Users/rodolfoacosta/Documents/KiCad_Projects/KiCad_Libraries/nokia-display-kicad-libs-master/nokia-display-footprints/LCD_Connectors.pretty)(options "")(descr ""))
+  (lib (name Nokia_5110-3310_LCD)(type KiCad)(uri /Users/rodolfoacosta/Documents/KiCad_Projects/KiCad_Libraries/nokia-display-kicad-libs-master/nokia-display-components/Nokia_5110-3310_LCD)(options "")(descr ""))
+)
